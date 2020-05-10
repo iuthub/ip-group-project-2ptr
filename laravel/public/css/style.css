@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-style:oblique;
+    color:white;
+}
+.fa-google-plus{
+    color: #d43f3a;
+}
+.fa-telegram{
+    color: #2aabd2;
+}
+.fa-facebook-official{
+    color:dodgerblue;
+}
+.fa-twitch{
+    color: blueviolet;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-instagram{
+    color: darksalmon;
+}
+.glyphicon-log-in{
+    color: white;
+}
+.glyphicon-user{
+    color: white;
+}
+h5 {
+color: white;
+}
+body{
+    background-color: white;
+}
+.navbar-inverse{
+    color: silver;
+} body{
+background-color: white;
+}
+.dropdown-menu{
+    font-family: Helvetica;}
+
+.botton {transform: skewx(-45deg);}
+.botton>div{transform: skewX(45deg);}

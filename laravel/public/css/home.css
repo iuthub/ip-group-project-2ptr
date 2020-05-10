@@ -1,0 +1,116 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: contain;
+    width: 100%;
+    background-repeat: repeat-y;
+}
+
+.whitebg{
+    background-color: #ffffff;
+    padding-top: 5px;
+}
+
+.paddingZero{
+
+}
+#transit{
+    transition-property: width, height;
+    transition-duration: 2s;
+    width: 100%;
+}
+#transit:hover{
+    overflow: scroll;
+    width: 120%;
+    height: 120%;
+
+}
+
+.cont{
+    height: 500px;
+}
+
+.marginMinus{
+    margin-left: -50px;
+    margin-right: 15px;
+}
+
+.borderCircle{
+    border-radius: 10px;
+}
+
+.navbar {
+    margin-bottom: 50px;
+    border-radius:5px;
+
+}
+
+/* Remove the jumbotron's default bottom margin */
+.jumbotron {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+/* Add a gray background color and some padding to the footer */
+
+p{
+    font-size: 20px;
+    font-family: "Helvetica", serif;
+}
+a{
+    font-family: "Helvetica", serif;
+}
+h4{
+    font-family: "Helvetica", serif;
+}
+body{
+    border-color: #3c3c3c;
+}
+.footer{
+    padding: 0%;
+    border-radius: 5px;
+    background-color: #000000;
+    left: 7%;
+    bottom:0;
+    width:87%;
+
+}
+
+.btnuser{
+    margin-bottom: 100px;
+}
+
+#facebook{
+    color: white;
+    margin-right: 8px;
+    margin-top: 10px;
+}
+a:hover #facebook{
+    color:blue;
+}
+#instagram{
+    color: white;
+    margin-right: 8px;
+    margin-top: 10px;
+
+}
+a:hover #instagram{
+    color:lightcoral;
+
+}
+#youtube{
+    color: white;
+    margin-right: 8px;
+    margin-top: 10px;
+}
+a:hover #youtube{
+    color:red;
+
+}
+#twitch{
+    color: white;
+    margin-right: 8px;
+    margin-top: 13px;
+}
+a:hover #twitch{
+    color:rebeccapurple;
+}
